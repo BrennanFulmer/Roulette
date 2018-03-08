@@ -1,7 +1,7 @@
 assignment_js_sprint
 ====================
 
-created by Brennan Fulmer
+by Brennan Fulmer
 
 https://brennanfulmer.github.io/Roulette/
 
